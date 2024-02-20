@@ -1,4 +1,7 @@
+#!/bin/bash
 #!/bin/sh
+
+
 
 rm -rf ./tempdir
 
